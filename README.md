@@ -1,16 +1,11 @@
 # news_app
 
-A new Flutter project.
+A new _Flutter_ implementation of a _shopping app_.
 
-## Getting Started
+![Screenshot_20210102-183542](https://user-images.githubusercontent.com/53117192/103458040-4b2ae680-4d2a-11eb-93c1-b0f229014c85.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+__Requirements__
+1. Flutter SDK with path correctly specified
+2. Android Studio/VS Code with all required dart and flutter plugins installed
+3. An Android/iOS emulator/a working physical device
+4. 1% of human brain!!
