@@ -1,6 +1,6 @@
-# news_app
+# GetYourNews
 
-A new _Flutter_ implementation of a _shopping app_.
+A new _Flutter_ implementation of a _news app_.
 
 ![Screenshot_20210102-183542](https://user-images.githubusercontent.com/53117192/103458040-4b2ae680-4d2a-11eb-93c1-b0f229014c85.png)
 
